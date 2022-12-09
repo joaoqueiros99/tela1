@@ -1,0 +1,71 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  .conteudo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 250px;
+  }
+  
+  .lugarfotos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    margin-top: 100px;
+    width: 400px;
+    height: 400px;
+  }
+  
+  .imagemlgbt{
+    border-radius: 100px 100px 0px 0px;
+  }
+  
+  .textos{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 300px;
+  }
+  
+  .textoinicial{
+    color: #006494;
+    font-weight: 600;
+    font-size: 28px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .segundotexto{
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .botao{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+  }
+  .botaoform{
+    color: #FEFDF9;
+    font-size: 25px;
+    border-color: #006494;
+    background-color: #006494;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    border-radius: 50px;
+    height: 50px;
+    width: 350px;
+  }
+  
+  
